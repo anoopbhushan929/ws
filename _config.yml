@@ -39,7 +39,7 @@ baseurl: "/ws" # the subpath of your site, e.g. "/blog".
 # Github and twitter are optional:
 minima:
   social_links:
-    twitter: anoopbhushan
+    twitter: anoop_bhushan
     github: anoopbhushan929
     kaggle: abisgeek 
 
